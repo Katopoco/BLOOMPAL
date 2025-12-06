@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BloomPal</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_collection">My Plants</string>
+
+    <!-- Dashboard -->
+    <string name="total_plants">Total Plants</string>
+    <string name="need_water">Need Water</string>
+    <string name="in_bloom">In Bloom</string>
+    <string name="todays_care">Today\'s Care</string>
+
+    <!-- Plant.kt Collection -->
+    <string name="my_plants">My Plants</string>
+    <string name="search_plants">Search Plants</string>
+</resources>

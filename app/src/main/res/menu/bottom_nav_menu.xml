@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Dashboard Tab -->
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="@string/nav_dashboard" />
+
+    <!-- My Plants Tab -->
+    <item
+        android:id="@+id/nav_collection"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/nav_collection" />
+</menu>
